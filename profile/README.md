@@ -2,7 +2,7 @@
 
 We are [CloudAnswers](https://cloudanswers.com). Transform your Salesforce platform with innovative apps.
 
-Our experienced team is based in Boston, Gdańsk, Kolkata, Amritsar, Delhi and can help you create and modify workflow processes in Salesforce.
+Our experienced team can help you create and modify workflow processes in Salesforce, mobile apps, websites, and integrations.
 
 Feel free to [contact us](https://cloudanswers.com/contact) for
 
