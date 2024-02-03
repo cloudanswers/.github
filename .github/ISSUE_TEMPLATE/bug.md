@@ -1,19 +1,17 @@
 ---
 name: Bug
-about: Bug report
+about: Something that is not working as expected.
 title: "[Short description]"
-labels: bug
+labels: bug :bug:
 ---
 
-## Current Behavior
+## Description of the Bug
 
 ## Steps to Reproduce
-1.
-2.
-3.
+1. 
 
 ## Expected Behavior
 
-## Context (Environment/Customers Affected)
+## Environment/Users Affected
 
 ## Possible Solution
