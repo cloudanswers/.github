@@ -1,6 +1,6 @@
 ---
 name: Enhancement
-about: Request a new feature or enhancement
+about: Request a new feature or enhancement.
 labels: 'enhancement, type:enhancement :sparkles:'
 ---
 
