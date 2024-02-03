@@ -1,7 +1,6 @@
 ---
 name: Bug
 about: Something that is not working as expected.
-title: "[Short description]"
 labels: 'type:bug :bug:,bug'
 ---
 
