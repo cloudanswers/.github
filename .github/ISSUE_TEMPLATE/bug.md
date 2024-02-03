@@ -2,7 +2,7 @@
 name: Bug
 about: Something that is not working as expected.
 title: "[Short description]"
-labels: 'bug :bug:'
+labels: 'type:bug :bug:'
 ---
 
 ## Description of the Bug
