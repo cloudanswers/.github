@@ -11,6 +11,8 @@ labels: 'type:bug :bug:,bug'
 
 ## Expected Behavior
 
+## Error Messages/Logs
+
 ## Environment/Users Affected
 
 ## Possible Solution
